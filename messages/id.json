@@ -1,0 +1,16 @@
+{
+  "IndexPage": {
+    "title": "Namaste",
+    "description": "Aapka suagat hai"
+  },
+  "NotFoundPage": {
+    "title": "Uplabdh nahi hai",
+    "description": "Nahi Hai"
+  },
+  "Navigation": {
+    "home": "Ghar"
+  },
+  "Footer": {
+    "copyright": "© 2024 Harshita Jain"
+  }
+}
